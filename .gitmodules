@@ -1,3 +1,3 @@
 [submodule "CV_website"] 
   path = CV_website 
-  url = git://url-of-source/ https://github.com/s3930216/CV_website.git
+  url = git://https://github.com/s3930216/CV_website.git
